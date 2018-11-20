@@ -1,0 +1,4 @@
+/src/main/resources/keyfile.json
+/target
+.idea
+dependency-reduced-pom.xml

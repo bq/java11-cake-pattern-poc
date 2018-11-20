@@ -1,0 +1,6 @@
+{
+  "port": 8080,
+  "verticlesAmount": 2,
+  "projectID": "bq-services-sta",
+  "keyfilePath": "/Users/pjgg/Documents/workspace/java11-cake-pattern/src/main/resources/keyfile.json"
+}
